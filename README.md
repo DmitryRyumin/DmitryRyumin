@@ -17,9 +17,8 @@
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/DmitryRyumin)](https://github.com/DmitryRyumin)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/DmitryRyumin)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DmitryRyumin&show_icons=true" alt="DmitryRyumin" /> 
-</p>
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=DmitryRyumin&hide_title=false&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryRyumin&hide_title=false&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DmitryRyumin)
 
