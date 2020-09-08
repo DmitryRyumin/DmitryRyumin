@@ -1,4 +1,4 @@
-:wave: Hello, My name is **Dmitry**.
+Hello, My name is **Dmitry**.
 
 <i>Follow me:</i><br>
 
