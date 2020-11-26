@@ -21,4 +21,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DmitryRyumin)
 
+https://github-profile-trophy.vercel.app/?username=DmitryRyumin&margin-w=15
+
 ⭐️ From [@DmitryRyumin](https://github.com/DmitryRyumin)
