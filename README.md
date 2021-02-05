@@ -1,4 +1,4 @@
-### `Hi there, I’m Dmitry, PhD`
+### `Hi there, I’m Dmitry Ryumin, PhD`
 
 <div>
   <h4>Connect with me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
