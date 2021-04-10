@@ -7,13 +7,17 @@
 <a href="https://www.instagram.com/dmitryandelena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ### Languages and Tools
-<code><img height="48" src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/flutter.svg?response-content-disposition=attachment%3Bfilename%3Dflutter.svg"></code>
+<code><img height="48" src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg"></code>
+<code><img height="48" src="https://cdn.svgporn.com/logos/pycharm.svg?response-content-disposition=attachment%3Bfilename%3Dpycharm.svg"></code>
+<code><img height="48" src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/pytorch.svg?response-content-disposition=attachment%3Bfilename%3Dpytorch.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/numpy.svg?response-content-disposition=attachment%3Bfilename%3Dnumpy.svg"></code>
-<code><img height="48" src="https://cdn.svgporn.com/logos/github-octocat.svg?response-content-disposition=attachment%3Bfilename%3Dgithub-octocat.svg"></code>
+<code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"></code>
+<code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
+<code><img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 
 <br/>
 
