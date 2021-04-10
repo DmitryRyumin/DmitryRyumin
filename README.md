@@ -10,6 +10,7 @@
 <code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/flutter.svg?response-content-disposition=attachment%3Bfilename%3Dflutter.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg"></code>
+<code><img height="48" src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/pycharm.svg?response-content-disposition=attachment%3Bfilename%3Dpycharm.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg"></code>
