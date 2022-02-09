@@ -1,12 +1,12 @@
 ### `𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸’𝚖 𝙳𝚖𝚒𝚝𝚛𝚢 𝚁𝚢𝚞𝚖𝚒𝚗, 𝙿𝚑𝙳 𝚒𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐`
 
 <div>
-  <h4>Connect with me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
+  <h4>𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
 </div>
 
 <a href="https://www.instagram.com/dmitryandelena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-### Languages and Tools
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
 <code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/flutter.svg?response-content-disposition=attachment%3Bfilename%3Dflutter.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg"></code>
@@ -31,4 +31,4 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DmitryRyumin)
 
-⭐️ From [@DmitryRyumin](https://github.com/DmitryRyumin)
+⭐️ 𝙵𝚛𝚘𝚖 [@DmitryRyumin](https://github.com/DmitryRyumin)
