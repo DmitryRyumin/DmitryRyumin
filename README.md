@@ -22,6 +22,8 @@
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
 <code><img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 
+[![codewars](https://www.codewars.com/users/DmitryRyumin/badges/small)](https://www.codewars.com/users/DmitryRyumin)
+
 <br/>
 
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/DmitryRyumin)](https://github.com/DmitryRyumin)
