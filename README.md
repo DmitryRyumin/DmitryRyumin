@@ -31,6 +31,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryRyumin&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryRyumin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=DmitryRyumin)
 
 ⭐️ 𝙵𝚛𝚘𝚖 [@DmitryRyumin](https://github.com/DmitryRyumin)
