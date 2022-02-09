@@ -6,6 +6,8 @@
 
 <a href="https://www.instagram.com/dmitryandelena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryRyumin&theme=dracula)
+
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
 <code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/flutter.svg?response-content-disposition=attachment%3Bfilename%3Dflutter.svg"></code>
@@ -30,8 +32,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitryRyumin&theme=dracula)](https://github.com/DmitryRyumin/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryRyumin&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryRyumin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DmitryRyumin)
 
