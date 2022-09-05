@@ -23,6 +23,9 @@
 <code><img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 
 [![codewars](https://www.codewars.com/users/DmitryRyumin/badges/large)](https://www.codewars.com/users/DmitryRyumin)
+
+<br/>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/DmitryRyumin)](https://leetcode.com/DmitryRyumin)
 
 <br/>
