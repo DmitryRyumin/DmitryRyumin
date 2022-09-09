@@ -26,7 +26,7 @@
 
 <br/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/DmitryRyumin?ext=heatmap?ext=contest)](https://leetcode.com/DmitryRyumin)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/DmitryRyumin?ext=heatmap,contest)](https://leetcode.com/DmitryRyumin)
 
 <br/>
 
