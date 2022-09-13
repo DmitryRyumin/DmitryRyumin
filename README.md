@@ -22,7 +22,7 @@
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
 <code><img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 
-[![codewars](https://www.codewars.com/users/DmitryRyumin/badges/large)](https://www.codewars.com/users/DmitryRyumin)
+<!-- [![codewars](https://www.codewars.com/users/DmitryRyumin/badges/large)](https://www.codewars.com/users/DmitryRyumin) -->
 
 <br/>
 
