@@ -9,7 +9,9 @@
 <a href="https://www.instagram.com/dmitryandelena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
-<code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+
+<!-- <code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/flutter.svg?response-content-disposition=attachment%3Bfilename%3Dflutter.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg"></code>
@@ -20,7 +22,7 @@
 <code><img height="48" src="https://cdn.svgporn.com/logos/numpy.svg?response-content-disposition=attachment%3Bfilename%3Dnumpy.svg"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
-<code><img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
+<code><img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code> -->
 
 <!-- [![codewars](https://www.codewars.com/users/DmitryRyumin/badges/large)](https://www.codewars.com/users/DmitryRyumin) -->
 
