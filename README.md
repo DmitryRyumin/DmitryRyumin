@@ -2,19 +2,19 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryRyumin&theme=dracula)
 
-<div>
+<!-- <div>
   <h4>𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
 </div>
 
-<a href="https://www.instagram.com/dmitryandelena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/dmitryandelena" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> -->
 
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
+<!-- ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
 <div>
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-</div>
+</div> -->
 
 <!-- <code><img height="48" src="https://cdn.svgporn.com/logos/dart.svg?response-content-disposition=attachment%3Bfilename%3Ddart.svg"></code>
 <code><img height="48" src="https://cdn.svgporn.com/logos/flutter.svg?response-content-disposition=attachment%3Bfilename%3Dflutter.svg"></code>
@@ -37,8 +37,8 @@
 
 <br/>
 
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/DmitryRyumin)](https://github.com/DmitryRyumin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/DmitryRyumin)
+<!-- [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/DmitryRyumin)](https://github.com/DmitryRyumin)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/DmitryRyumin) -->
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=DmitryRyumin&hide_title=false&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryRyumin&hide_title=false&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
