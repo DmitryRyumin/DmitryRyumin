@@ -1,5 +1,11 @@
  ### `𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸’𝚖 𝙳𝚖𝚒𝚝𝚛𝚢 𝚁𝚢𝚞𝚖𝚒𝚗, 𝙿𝚑𝙳 𝚒𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐`
 
+<a href="https://github.com/DmitryRyumin">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryRyumin&theme=dracula) -->
 
 <!-- <div>
