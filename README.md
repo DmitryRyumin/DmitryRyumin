@@ -1,6 +1,6 @@
-<p align="center">
-
 [![DmitryRyumin](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Dr.+Dmitry+Ryumin;Artificial+Intelligence+Researcher)](https://github.com/DmitryRyumin)
+
+<p>
 
 <a href="mailto:neweraairesearch@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
