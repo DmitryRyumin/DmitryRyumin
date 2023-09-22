@@ -1,4 +1,4 @@
- ### `𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸’𝚖 𝙳𝚖𝚒𝚝𝚛𝚢 𝚁𝚢𝚞𝚖𝚒𝚗, 𝙿𝚑𝙳 𝚒𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐`
+[![DmitryRyumin](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Dr.+Dmitry+Ryumin;Artificial+Intelligence+Researcher)](https://git.io/typing-svg)
 
 <a href="https://github.com/DmitryRyumin">
     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000">
