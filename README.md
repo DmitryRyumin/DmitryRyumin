@@ -9,7 +9,8 @@
 <br />
 
 <a href="https://github.com/DmitryRyumin">
-    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF">
+<!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> -->
 </a>
 
 </p>
