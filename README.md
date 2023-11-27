@@ -2,6 +2,12 @@
 
 <p>
 
+<!-- <a href="">
+    <img src="https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white">
+</a> -->
+<a href="https://scholar.google.com/citations?user=LrTIp5IAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white">
+</a>
 <a href="mailto:neweraairesearch@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
