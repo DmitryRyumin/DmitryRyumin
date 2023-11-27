@@ -5,6 +5,10 @@
 <!-- <a href="">
     <img src="https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white">
 </a> -->
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57191960214">
+    <img src="https://img.shields.io/badge/Scopus-%23E9711C.svg?&style=flat-square&logo=scopus&logoColor=white">
+</a>
 <a href="https://scholar.google.com/citations?user=LrTIp5IAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white">
 </a>
