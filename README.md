@@ -12,6 +12,9 @@
 <a href="https://scholar.google.com/citations?user=LrTIp5IAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white">
 </a>
+<a href="https://orcid.org/0000-0002-7935-0569">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=flat-square&logo=orcid&logoColor=white">
+</a>
 <a href="mailto:neweraairesearch@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
