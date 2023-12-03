@@ -36,4 +36,14 @@
 
 #### Journals
 
-- ``Expert Systems with Applications 2024`` [OCEAN-AI Framework with EmoFormer Cross-Hemiface Attention Approach for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0957417423029433), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Alexey Karpov
+- ``Expert Systems with Applications 2024`` [OCEAN-AI Framework with EmoFormer Cross-Hemiface Attention Approach for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0957417423029433), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, and Alexey Karpov
+
+#### Conferences
+
+- ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
+- ``INTERSPEECH 2022`` [DAVIS: Driver's Audio-Visual Speech Recognition](https://www.isca-speech.org/archive/interspeech_2022/ivanko22_interspeech.html), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, Andrey Kitenko, Igor Lashkov, and Alexey Karpov
+- ``INTERSPEECH 2022`` [Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task](https://www.isca-speech.org/archive/interspeech_2022/markitantov22_interspeech.html), Maxim Markitantov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
+- ``ICMI 2022`` [MIDriveSafely: Multimodal Interaction for Drive Safely](https://dl.acm.org/doi/abs/10.1145/3536221.3557037), Denis Ivanko, Alexey Kashevnik, **Dmitry Ryumin**, Andrey Kitenko, Alexandr Axyonov, Igor Lashkov, and Alexey Karpov
+- ``EUSIPCO 2022`` [Visual Speech Recognition in a Driver Assistance System](https://ieeexplore.ieee.org/document/9909819), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, and Alexey Karnov
+- ``LREC 2022`` [RUSAVIC Corpus: Russian Audio-Visual Speech in Cars](https://aclanthology.org/2022.lrec-1.166/), Denis Ivanko, Alexandr Axyonov, **Dmitry Ryumin**, Alexey Kashevnik, and Alexey Karpov
+- ``LREC 2020`` [TheRuSLan: Database of Russian Sign language](https://aclanthology.org/2020.lrec-1.746/), Ildar Kagirov, Denis Ivanko, **Dmitry Ryumin**, Alexander Axyonov, and Alexey Karpov
