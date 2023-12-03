@@ -37,6 +37,7 @@
 #### Journals
 
 - ``Expert Systems with Applications 2024`` [OCEAN-AI Framework with EmoFormer Cross-Hemiface Attention Approach for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0957417423029433), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, and Alexey Karpov
+- ``Sensors 2023`` [Audio-Visual Speech and Gesture Recognition by Sensors of Mobile Devices](https://www.mdpi.com/1424-8220/23/4/2284), **Dmitry Ryumin**, Elena Ryumina, and Denis Ivanko
 - ``IEEE Access 2021`` [Multimodal Corpus Design for Audio-Visual Speech Recognition in Vehicle Cabin](https://ieeexplore.ieee.org/document/9364986), Alexey Kashevnik, Igor Lashkov, Alexandr Axyonov, Denis Ivanko, **Dmitry Ryumin**, Artem Kolchin, and Alexey Karpov
 
 #### Conferences
