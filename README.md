@@ -33,3 +33,7 @@
 </p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" /> Selected Research Papers
+
+#### Journals
+
+- ``Expert Systems with Applications 2024`` [OCEAN-AI Framework with EmoFormer Cross-Hemiface Attention Approach for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0957417423029433), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Alexey Karpov
