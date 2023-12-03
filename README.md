@@ -32,6 +32,8 @@
 
 </p>
 
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" /> Selected Research Papers
 
 #### Journals
@@ -49,3 +51,47 @@
 - ``EUSIPCO 2022`` [Visual Speech Recognition in a Driver Assistance System](https://ieeexplore.ieee.org/document/9909819), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, and Alexey Karnov [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/visual-speech-recognition-in-a-driver/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=visual-speech-recognition-in-a-driver)
 - ``LREC 2022`` [RUSAVIC Corpus: Russian Audio-Visual Speech in Cars](https://aclanthology.org/2022.lrec-1.166/), Denis Ivanko, Alexandr Axyonov, **Dmitry Ryumin**, Alexey Kashevnik, and Alexey Karpov
 - ``LREC 2020`` [TheRuSLan: Database of Russian Sign language](https://aclanthology.org/2020.lrec-1.746/), Ildar Kagirov, Denis Ivanko, **Dmitry Ryumin**, Alexander Axyonov, and Alexey Karpov
+
+---
+
+<a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />
+  Collections of the best AI conferences
+</a>
+
+<br />
+<br />
+
+> :exclamation: Conference table will be up to date all the time.
+
+<table>
+    <tr>
+        <td rowspan="2" align="center"><strong>Conference</strong></td>
+        <td colspan="1" align="center"><strong>Year</strong></td>
+    </tr>
+    <tr>
+        <td colspan="1" align="center"><i>2023</i></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
+    </tr>
+    <tr>
+        <td>ICCV</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
+    </tr>
+    <tr>
+        <td>ICASSP</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" /></a></td>
+    </tr>
+    <tr>
+        <td>INTERSPEECH</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+    </tr>
+    <tr>
+        <td>ISMIR</td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+    </tr>
+</table>
