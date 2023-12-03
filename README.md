@@ -31,3 +31,5 @@
 <img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square">
 
 </p>
+
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" /> Selected Research Papers
