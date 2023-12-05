@@ -98,4 +98,11 @@
         <td>ISMIR</td>
         <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
     </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Natural Language Processing (NLP)</i></td>
+    </tr>
+    <tr>
+        <td>EMNLP</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
+    </tr>
 </table>
