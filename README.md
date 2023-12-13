@@ -107,7 +107,14 @@
 
 #### Journal Reviewing
 
-[![Reviewing Badge](https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square)](https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf)
+<p>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
+        <img src="https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-4-E87324?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+</p>
 
 <br />
 
