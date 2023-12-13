@@ -107,7 +107,7 @@
 
 #### Journal Reviewing
 
-1. [November 2022 - Present] ``Neurocomputing`` - [*9*](https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf)
+[![Reviewing Badge](https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square)](https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf)
 
 <br />
 
