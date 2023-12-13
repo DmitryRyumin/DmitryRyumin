@@ -107,6 +107,8 @@
 
 #### Journal Reviewing
 
-1. [November 2022 - Present] [Neurocomputing](https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf) - *9*
+1. [November 2022 - Present] ``Neurocomputing`` - [*9*](https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf)
 
-<div class="pull-right"><i>Last Updated: December 14, 2023</i></div>
+<br />
+
+<div><i>Last Updated: December 14, 2023</i></div>
