@@ -54,12 +54,6 @@
 
 ---
 
-### Community Services
-
-#### Journal Reviewing
-
----
-
 ### <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />Collections of the Best AI Conferences</a>
 
 > :exclamation: Conference table will be up to date all the time.
@@ -106,3 +100,9 @@
         <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
     </tr>
 </table>
+
+---
+
+### Community Services
+
+#### Journal Reviewing
