@@ -54,13 +54,7 @@
 
 ---
 
-<a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />
-  Collections of the Best AI Conferences
-</a>
-
-<br />
-<br />
+### <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />Collections of the Best AI Conferences</a>
 
 > :exclamation: Conference table will be up to date all the time.
 
