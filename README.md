@@ -7,34 +7,34 @@
 </a> -->
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57191960214">
-    <img src="https://img.shields.io/badge/Scopus-%23E9711C.svg?&style=flat-square&logo=scopus&logoColor=white">
+    <img src="https://img.shields.io/badge/Scopus-%23E9711C.svg?&style=flat-square&logo=scopus&logoColor=white" alt="" />
 </a>
 <a href="https://scholar.google.com/citations?user=LrTIp5IAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white">
+    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
 </a>
 <a href="https://orcid.org/0000-0002-7935-0569">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=flat-square&logo=orcid&logoColor=white">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
 <a href="mailto:neweraairesearch@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
 
 <br />
 
 <a href="https://github.com/DmitryRyumin">
-    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
 <!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> -->
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square" alt="" />
 
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" /> Selected Research Papers
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" alt="" /> Selected Research Papers
 
 #### Journals
 
@@ -54,7 +54,7 @@
 
 ---
 
-### <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />Collections of the Best AI Conferences</a>
+### <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" alt="" />Collections of the Best AI Conferences</a>
 
 > :exclamation: Conference table will be up to date all the time.
 
@@ -71,26 +71,26 @@
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Natural Language Processing (NLP)</i></td>
@@ -107,4 +107,6 @@
 
 #### Journal Reviewing
 
-[2022-till date] Neurocomputing
+1. [November 2022 - Present] [Neurocomputing](https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf) - *9*
+
+<div class="pull-right"><i>Last Updated: December 14, 2023</i></div>
