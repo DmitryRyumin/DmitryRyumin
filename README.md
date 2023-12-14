@@ -104,7 +104,7 @@
 
 ---
 
-### Community Services
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/research.svg" width="20" alt="" /> Community Services
 
 #### Journal Reviewing
 
