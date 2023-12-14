@@ -114,11 +114,14 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
         <img src="https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-9-045877?&style=flat-square" alt="Reviewing Badge" />
+    </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-4-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
-        <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications%20(ISWA)-2-1C346D?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-2-1C346D?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCVIU.pdf">
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-2-8A6734?&style=flat-square" alt="Reviewing Badge" />
