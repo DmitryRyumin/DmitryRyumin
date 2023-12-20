@@ -144,8 +144,12 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-1-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-1-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
 </p>
 
 <br />
 
-<div><i>Last Updated: December 14, 2023</i></div>
+<div><i>Last Updated: December 21, 2023</i></div>
