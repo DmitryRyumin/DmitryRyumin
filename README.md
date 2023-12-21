@@ -104,6 +104,14 @@
 
 ---
 
+### :octocat: Contributed Repositories
+
+| Repository | Stars |
+|------------|-------|
+| [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) | ![Stars](https://img.shields.io/github/stars/paperswithcode/ai-deadlines) |
+
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/research.svg" width="20" alt="" /> Community Services
 
 #### Journal Reviewing
