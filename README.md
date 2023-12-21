@@ -109,6 +109,7 @@
 | Repository | Stars |
 |------------|-------|
 | ai-deadlines | [![Stars](https://img.shields.io/github/stars/paperswithcode/ai-deadlines)](https://github.com/paperswithcode/ai-deadlines) |
+| SpeechTasks | [![Stars](https://img.shields.io/github/stars/WangHelin1997/SpeechTasks)](https://github.com/WangHelin1997/SpeechTasks) |
 
 ---
 
