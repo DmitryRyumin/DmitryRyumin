@@ -108,7 +108,7 @@
 
 | Repository | Stars |
 |------------|-------|
-| [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) | ![Stars](https://img.shields.io/github/stars/paperswithcode/ai-deadlines) |
+| ai-deadlines | [![Stars](https://img.shields.io/github/stars/paperswithcode/ai-deadlines)](https://github.com/paperswithcode/ai-deadlines) |
 
 ---
 
