@@ -104,7 +104,7 @@
 
 ---
 
-### :octocat: Contributed Repositories
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_social.svg" width="20" alt="" /> Contributed Repositories
 
 | Repository | Stars |
 |------------|-------|
