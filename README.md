@@ -196,4 +196,4 @@
 
 <br />
 
-<div><i>Last Updated: December 26, 2023</i></div>
+![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/DmitryRyumin)
