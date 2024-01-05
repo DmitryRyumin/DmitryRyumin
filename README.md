@@ -28,6 +28,7 @@
 
 <br />
 
+<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=flat-square&logo=fire&logoColor=fff&color=orange&label=GitHub%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Ddmitryryumin%26type%3Djson" alt="" />
 <img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square" alt="" />
 
 </p>
