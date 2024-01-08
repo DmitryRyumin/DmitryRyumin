@@ -18,16 +18,16 @@
 <a href="mailto:neweraairesearch@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
-
 <br />
-
+<a href="https://t.me/dmitry_ryumin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="" />
+</a>
+<br />
 <a href="https://github.com/DmitryRyumin">
     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
 <!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> -->
 </a>
-
 <br />
-
 <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=flat-square&logo=fire&logoColor=fff&color=orange&label=GitHub%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Ddmitryryumin%26type%3Djson" alt="" />
 <img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square" alt="" />
 
