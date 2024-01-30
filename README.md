@@ -183,6 +183,10 @@
         <img src="https://img.shields.io/badge/Heliyon-3-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-2-000000?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ISWA.pdf">
         <img src="https://img.shields.io/badge/Intelligent%20Systems%20with%20Applications-2-1C346D?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -193,10 +197,6 @@
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
         <img src="https://img.shields.io/badge/SoftwareX-2-53C0AF?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-1-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://orcid.org/0000-0002-7935-0569">
