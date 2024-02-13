@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
 <br />
+<a href="https://huggingface.co/DmitryRyumin">
+    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
+</a>
 <a href="https://t.me/dmitry_ryumin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="" />
 </a>
