@@ -167,12 +167,12 @@
 #### Journal Reviewing
 
 <p>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
-        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-11-505050?&style=flat-square" alt="Reviewing Badge" />
-    </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-11-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-12-045877?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
+        <img src="https://img.shields.io/badge/Image%20and%20Vision%20Computing-11-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
