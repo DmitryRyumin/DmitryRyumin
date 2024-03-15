@@ -207,6 +207,10 @@
         <img src="https://img.shields.io/badge/Visual%20Informatics-1-5E1918?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-1-505050?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://orcid.org/0000-0002-7935-0569">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-1-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
