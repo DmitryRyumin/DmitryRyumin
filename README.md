@@ -47,7 +47,7 @@
 
 #### Conferences
 
-- ``ICASSP 2024`` [Audio-Visual Speech Recognition In-the-Wild: Multi-Angle Vehicle Cabin Corpus and Attention-based Method (accepted)](https://smil-spcras.github.io/DAVIS/), Alexandr Axyonov, **Dmitry Ryumin**, Denis Ivanko, Alexey Kashevnik, Alexey Karpov
+- ``ICASSP 2024`` [Audio-Visual Speech Recognition In-the-Wild: Multi-Angle Vehicle Cabin Corpus and Attention-based Method](https://ieeexplore.ieee.org/document/10448048), Alexandr Axyonov, **Dmitry Ryumin**, Denis Ivanko, Alexey Kashevnik, Alexey Karpov
 - ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
 - ``INTERSPEECH 2022`` [DAVIS: Driver's Audio-Visual Speech Recognition](https://www.isca-speech.org/archive/interspeech_2022/ivanko22_interspeech.html), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, Andrey Kitenko, Igor Lashkov, and Alexey Karpov
 - ``INTERSPEECH 2022`` [Biometric Russian Audio-Visual Extended MASKS (BRAVE-MASKS) Corpus: Multimodal Mask Type Recognition Task](https://www.isca-speech.org/archive/interspeech_2022/markitantov22_interspeech.html), Maxim Markitantov, Elena Ryumina, **Dmitry Ryumin**, and Alexey Karpov
