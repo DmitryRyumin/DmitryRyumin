@@ -151,6 +151,14 @@
 
 ---
 
+### <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+
+| Repository | Stars |
+|------------|-------|
+| Speech Enhancement | [![Stars](https://img.shields.io/github/stars/DmitryRyumin/Awesome-Speech-Enhancement?style=flat)](https://github.com/DmitryRyumin/Awesome-Speech-Enhancement) |
+
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_social.svg" width="20" alt="" /> Contributed Repositories
 
 | Repository | Stars |
