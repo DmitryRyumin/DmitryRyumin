@@ -226,7 +226,7 @@
 
 <p>
     <a href="https://interspeech2024.org/">
-        <img src="http://img.shields.io/badge/Interspeech-2024-0C1C43.svg" alt="Interspeech">
+        <img src="http://img.shields.io/badge/Interspeech-2024-0C1C43.svg?&style=flat-square" alt="Interspeech">
     </a>
 </p>
 
