@@ -210,7 +210,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/VISINF.pdf">
-        <img src="https://img.shields.io/badge/Visual%20Informatics-1-5E1918?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Visual%20Informatics-2-5E1918?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
