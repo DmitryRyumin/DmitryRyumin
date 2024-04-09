@@ -5,6 +5,9 @@
 <a href="https://dmitryryumin.github.io">
     <img src="https://img.shields.io/badge/Website-blue??&style=flat-square&logo=opsgenie&logoColor=white" alt="" />
 </a>
+<a href="https://www.webofscience.com/wos/author/record/K-7989-2018" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Web%20of%20Science-5D34BF??&style=flat-square&logo=clarivate&logoColor=white" alt="" />
+</a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57191960214">
     <img src="https://img.shields.io/badge/Scopus-%23E9711C.svg?&style=flat-square&logo=scopus&logoColor=white" alt="" />
 </a>
@@ -14,15 +17,15 @@
 <a href="https://orcid.org/0000-0002-7935-0569">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
-<a href="mailto:neweraairesearch@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
-</a>
 <br />
 <a href="https://huggingface.co/DmitryRyumin">
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
 </a>
 <a href="https://t.me/dmitry_ryumin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="" />
+</a>
+<a href="mailto:neweraairesearch@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
 <br />
 <a href="https://github.com/DmitryRyumin">
@@ -185,12 +188,12 @@
         <img src="https://img.shields.io/badge/Neurocomputing-9-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
+        <img src="https://img.shields.io/badge/Heliyon-6-027DBC?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
-        <img src="https://img.shields.io/badge/Heliyon-5-027DBC?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
+        <img src="https://img.shields.io/badge/Pattern%20Recognition-5-E87324?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
