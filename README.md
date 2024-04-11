@@ -50,6 +50,7 @@
 
 #### Conferences
 
+- ``CVPRW 2024`` [Zero-Shot Audio-Visual Compound Expression Recognition Method based on Emotion Probability Fusion](https://elenaryumina.github.io/AVCER/), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, Heysem Kaya, Alexey Karpov (accepted)
 - ``ICASSP 2024`` [Audio-Visual Speech Recognition In-the-Wild: Multi-Angle Vehicle Cabin Corpus and Attention-based Method](https://ieeexplore.ieee.org/document/10448048), Alexandr Axyonov, **Dmitry Ryumin**, Denis Ivanko, Alexey Kashevnik, Alexey Karpov
 - ``INTERSPEECH 2023`` [Multimodal Personality Traits Assessment (MuPTA) Corpus: the Impact of Spontaneous and Read Speech](https://www.isca-speech.org/archive/interspeech_2023/ryumina23_interspeech.html), Elena Ryumina, **Dmitry Ryumin**, Maxim Markitantov, Heysem Kaya, and Alexey Karpov
 - ``INTERSPEECH 2022`` [DAVIS: Driver's Audio-Visual Speech Recognition](https://www.isca-speech.org/archive/interspeech_2022/ivanko22_interspeech.html), Denis Ivanko, **Dmitry Ryumin**, Alexey Kashevnik, Alexandr Axyonov, Andrey Kitenko, Igor Lashkov, and Alexey Karpov
