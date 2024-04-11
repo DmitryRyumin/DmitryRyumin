@@ -172,6 +172,15 @@
 
 ---
 
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/spaces.svg" width="20" alt="" /> Contributed Spaces (Hugging Face)
+
+| Space |
+|-------|
+| [![Facial_Expression_Recognition](https://img.shields.io/badge/🤗-Facial_Expression_Recognition-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/Facial_Expression_Recognition) |
+| [![OCEANAI](https://img.shields.io/badge/🤗-OCEANAI-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/OCEANAI) |
+
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/research.svg" width="20" alt="" /> Community Services
 
 #### Journal Reviewing
