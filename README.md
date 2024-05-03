@@ -40,7 +40,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" alt="" /> Selected Research Papers
+### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" alt="" /> Selected Research Publications
 
 #### Journals
 
