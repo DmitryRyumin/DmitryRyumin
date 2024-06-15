@@ -239,12 +239,12 @@
         <img src="https://img.shields.io/badge/Speech%20Communication-2-DF1E25?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
-        <img src="https://img.shields.io/badge/Information%20Fusion-1-505050?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
+        <img src="https://img.shields.io/badge/Neural%20Networks-2-1E3887?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
-        <img src="https://img.shields.io/badge/Neural%20Networks-1-1E3887?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/INFFUS.pdf">
+        <img src="https://img.shields.io/badge/Information%20Fusion-1-505050?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NLP.pdf">
