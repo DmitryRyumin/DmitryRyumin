@@ -2,7 +2,6 @@
 
 <p>
 
-
 <a href="https://dmitryryumin.github.io">
     <img src="https://img.shields.io/badge/Website-blue??&style=flat-square&logo=opsgenie&logoColor=white" alt="" />
 </a>
@@ -195,7 +194,7 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-22-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-23-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
@@ -223,7 +222,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PATREC.pdf">
-        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-3-000000?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Pattern%20Recognition%20Letters-4-000000?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
