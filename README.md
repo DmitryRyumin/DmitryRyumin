@@ -1,6 +1,5 @@
 [![DmitryRyumin](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Dr.+Dmitry+Ryumin;Artificial+Intelligence+Researcher)](https://github.com/DmitryRyumin)
 
-
 <p>
 
 <a href="https://dmitryryumin.github.io">
