@@ -202,7 +202,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NEUCOM.pdf">
-        <img src="https://img.shields.io/badge/Neurocomputing-10-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Neurocomputing-11-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
@@ -214,7 +214,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
-        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-7-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-8-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
