@@ -277,12 +277,12 @@
         <img src="https://img.shields.io/badge/Measurement-2-545CA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
-        <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-2-14303E?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
+        <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
