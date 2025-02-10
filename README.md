@@ -226,7 +226,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
-        <img src="https://img.shields.io/badge/Data%20in%20Brief-7-E11E27?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Data%20in%20Brief-8-E11E27?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IJCCE.pdf">
