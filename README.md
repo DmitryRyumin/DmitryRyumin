@@ -1,6 +1,5 @@
 [![DmitryRyumin](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Dr.+Dmitry+Ryumin;Artificial+Intelligence+Researcher)](https://github.com/DmitryRyumin)
 
-
 <p>
 
 <a href="https://dmitryryumin.github.io">
@@ -195,7 +194,7 @@
 
 <p>
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ESWA.pdf">
-        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-26-045877?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-27-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
