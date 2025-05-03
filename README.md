@@ -251,7 +251,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCVIU.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-3-8A6734?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-4-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
