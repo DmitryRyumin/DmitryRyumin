@@ -203,7 +203,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
-        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-13-EFE30E?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-14-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
