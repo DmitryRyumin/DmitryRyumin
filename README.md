@@ -198,16 +198,16 @@
         <img src="https://img.shields.io/badge/Expert%20Systems%20with%20Applications-28-045877?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-16-583676?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
         <img src="https://img.shields.io/badge/Knowledge--Based%20Systems-13-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/HLY.pdf">
         <img src="https://img.shields.io/badge/Heliyon-13-027DBC?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-13-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAVIS.pdf">
