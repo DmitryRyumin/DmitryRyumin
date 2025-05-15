@@ -218,16 +218,16 @@
         <img src="https://img.shields.io/badge/Neurocomputing-11-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
+        <img src="https://img.shields.io/badge/Data%20in%20Brief-11-E11E27?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CAEE.pdf">
         <img src="https://img.shields.io/badge/Computers%20and%20Electrical%20Engineering-10-EFE30E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/PR.pdf">
         <img src="https://img.shields.io/badge/Pattern%20Recognition-10-E87324?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DIB.pdf">
-        <img src="https://img.shields.io/badge/Data%20in%20Brief-10-E11E27?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/NN.pdf">
@@ -258,6 +258,10 @@
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-3-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-3-227CC0?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/SOFTX.pdf">
         <img src="https://img.shields.io/badge/SoftwareX-2-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -274,16 +278,16 @@
         <img src="https://img.shields.io/badge/Natural%20Language%20Processing%20Journal-2-0F7C80?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-2-227CC0?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MEASUR.pdf">
         <img src="https://img.shields.io/badge/Measurement-2-545CA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
         <img src="https://img.shields.io/badge/Applied%20Soft%20Computing-2-1D3687?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CBM.pdf">
+        <img src="https://img.shields.io/badge/Computers%20in%20Biology%20and%20Medicine-1-E03040?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
@@ -300,6 +304,10 @@
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IPM.pdf">
         <img src="https://img.shields.io/badge/Information%20Processing%20and%20Management-1-A6E1D7?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/DISPLA.pdf">
+        <img src="https://img.shields.io/badge/Displays-1-545BA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
