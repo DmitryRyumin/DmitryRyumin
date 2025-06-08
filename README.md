@@ -287,7 +287,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/CBM.pdf">
-        <img src="https://img.shields.io/badge/Computers%20in%20Biology%20and%20Medicine-1-E03040?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Computers%20in%20Biology%20and%20Medicine-2-E03040?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
