@@ -310,8 +310,16 @@
         <img src="https://img.shields.io/badge/Displays-1-545BA8?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/JASP.pdf">
+        <img src="https://img.shields.io/badge/Advances%20in%20Space%20Research-1-1B356D?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-1-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
