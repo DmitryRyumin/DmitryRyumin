@@ -326,11 +326,14 @@
 #### Conference Reviewing
 
 <p>
+    <a href="https://2025.emnlp.org/">
+        <img src="http://img.shields.io/badge/EMNLP-2025-EE1D25.svg?&style=flat-square" alt="EMNLP">
+    </a>
     <a href="https://interspeech2025.org/">
         <img src="http://img.shields.io/badge/INTERSPEECH-2024%E2%80%9325-0C1C43.svg?&style=flat-square" alt="INTERSPEECH">
     </a>
-    <a href="https://specom2024.ftn.uns.ac.rs/">
-        <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9324-FDD944.svg?&style=flat-square" alt="SPECOM">
+    <a href="https://specom.inf.u-szeged.hu/">
+        <img src="http://img.shields.io/badge/SPECOM-2023%E2%80%9325-FDD944.svg?&style=flat-square" alt="SPECOM">
     </a>
 </p>
 
