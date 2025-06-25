@@ -199,7 +199,7 @@
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/EAAI.pdf">
-        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-18-583676?&style=flat-square" alt="Reviewing Badge" />
+        <img src="https://img.shields.io/badge/Engineering%20Applications%20of%20Artificial%20Intelligence-20-583676?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/KNOSYS.pdf">
@@ -254,12 +254,12 @@
         <img src="https://img.shields.io/badge/Computer%20Vision%20and%20Image%20Understanding-4-8A6734?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-3-14303E?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
+        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-4-227CC0?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/YCSLA.pdf">
-        <img src="https://img.shields.io/badge/Computer%20Speech%20and%20Language-3-227CC0?&style=flat-square" alt="Reviewing Badge" />
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Circuits%20and%20Systems%20for%20Video%20Technology-3-14303E?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/ASOC.pdf">
@@ -290,6 +290,10 @@
         <img src="https://img.shields.io/badge/Computers%20in%20Biology%20and%20Medicine-2-E03040?&style=flat-square" alt="Reviewing Badge" />
     </a>
     <br />
+    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
+        <img src="https://img.shields.io/badge/IEEE%20Access-2-03ADEF?&style=flat-square" alt="Reviewing Badge" />
+    </a>
+    <br />
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/AQUE.pdf">
         <img src="https://img.shields.io/badge/Aquacultural%20Engineering-1-53C0AF?&style=flat-square" alt="Reviewing Badge" />
     </a>
@@ -316,10 +320,6 @@
     <br />
     <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
         <img src="https://img.shields.io/badge/IEEE%20Transactions%20on%20Human--Machine%20Systems-1-0073AE?&style=flat-square" alt="Reviewing Badge" />
-    </a>
-    <br />
-    <a href="https://www.webofscience.com/wos/author/record/K-7989-2018">
-        <img src="https://img.shields.io/badge/IEEE%20Access-1-03ADEF?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
 
