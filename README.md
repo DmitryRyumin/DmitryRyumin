@@ -344,6 +344,9 @@
 #### Conference Reviewing
 
 <p>
+    <a href="https://iclr.cc/Conferences/2026">
+        <img src="http://img.shields.io/badge/ICLR-2026-212529.svg?&style=flat-square" alt="ICLR">
+    </a>
     <a href="https://2025.emnlp.org/">
         <img src="http://img.shields.io/badge/EMNLP-2025-EE1D25.svg?&style=flat-square" alt="EMNLP">
     </a>
