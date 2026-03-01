@@ -44,6 +44,7 @@
 
 #### Journals
 
+- ``Machine Learning and Knowledge Extraction 2026`` [SSL-MEPR: A Semi-Supervised Multi-Task Cross-Domain Learning Framework for Multimodal Emotion and Personality Recognition](https://www.mdpi.com/2504-4990/8/3/56), Elena Ryumina, Alexandr Axyonov, Darya Koryakovskaya, Timur Abdulkadirov, Angelina Egorova, Sergey Fedchin, Alexander Zaburdaev, and **Dmitry Ryumin**
 - ``Big Data and Cognitive Computing 2025`` [Cross-Lingual Bimodal Emotion Recognition with LLM-based Label Smoothing](https://www.mdpi.com/2504-2289/9/11/285), Elena Ryumina, Alexandr Axyonov, Timur Abdulkadirov, Darya Koryakovskaya, and **Dmitry Ryumin**
 - ``Pattern Recognition Letters 2025`` [Multi-Corpus Emotion Recognition Method based on Cross-Modal Gated Attention Fusion](https://www.sciencedirect.com/science/article/pii/S0167865525000662), Elena Ryumina, **Dmitry Ryumin**, Alexandr Axyonov, Denis Ivanko, and Alexey Karpov
 - ``Pattern Recognition Letters 2024`` [Gated Siamese Fusion Network based on Multimodal Deep and Hand-Crafted Features for Personality Traits Assessment](https://www.sciencedirect.com/science/article/pii/S0167865524002071), Elena Ryumina, Maxim Markitantov, **Dmitry Ryumin**, and Alexey Karpov [![GitHub](https://img.shields.io/github/stars/aimclub/OCEANAI?style=flat)](https://github.com/aimclub/OCEANAI)
