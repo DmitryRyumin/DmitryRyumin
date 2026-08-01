@@ -347,7 +347,7 @@
     <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MS.pdf">
         <img src="https://img.shields.io/badge/Multimedia%20Systems-1-A10232?&style=flat-square" alt="Reviewing Badge" />
     </a>
-    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/MS.pdf">
+    <a href="https://github.com/DmitryRyumin/DmitryRyumin/blob/master/certificates/IMAGE.pdf">
         <img src="https://img.shields.io/badge/Signal%20Processing%3A%20Image%20Communication-1-5DC7D4?&style=flat-square" alt="Reviewing Badge" />
     </a>
 </p>
